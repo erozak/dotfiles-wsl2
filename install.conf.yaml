@@ -1,0 +1,14 @@
+- clean: ['~']
+
+- link:
+    ~/.profile: profile
+    ~/.bashrc: bashrc
+    ~/.bash_logout: bash_logout
+    ~/.gitconfig: gitconfig
+    ~/.zshenv: zshenv
+    ~/.zshrc: zshrc
+    ~/bin:
+        path: bin/
+        create: true
+
+

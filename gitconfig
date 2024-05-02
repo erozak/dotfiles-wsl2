@@ -1,0 +1,5 @@
+[user]
+	name = Erozak
+	email = pinex666@gmail.com
+[core]
+	sshCommand = ssh.exe
